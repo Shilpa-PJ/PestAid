@@ -1,0 +1,109 @@
+[
+  {
+    "purpose": ["agriculture", "gardening", "sawfly", "beetle", "armyworm"],
+    "recipe_name": "Homemade Neem Oil Spray",
+    "ingredients": ["Neem oil", "water", "dish soap"],
+    "instructions": [
+      "Mix 2 tablespoons of neem oil with 1 gallon of water.",
+      "Add a few drops of dish soap.",
+      "Shake well.",
+      "Spray on plants as needed."
+    ],
+    "Apply": [
+      "Spray directly onto the affected plants, focusing on the undersides of leaves and areas with pest infestations.",
+      "Ensure you cover the pests with the spray. The soap helps the mixture adhere to the insects.",
+      "Apply the spray in the early morning or late afternoon when it's cooler to avoid harming beneficial insects."
+    ]
+  },
+  {
+    "purpose": ["agriculture", "gardening", "armyworm"],
+    "recipe_name": "Garlic and Pepper Spray",
+    "ingredients": ["Garlic", "hot peppers", "water"],
+    "instructions": [
+      "Blend 10 cloves of garlic and 3 hot peppers with 1 quart of water.",
+      "Strain and dilute with additional water if needed.",
+      "Spray on plants to deter pests."
+    ],
+    "Apply": [
+      "Spray directly onto the affected plants, focusing on the leaves, stems, and any areas with pest infestations.",
+      "Ensure thorough coverage, including the undersides of leaves where many pests hide.",
+      "Apply the spray in the early morning or late afternoon when it's cooler to avoid harming beneficial insects."
+    ]
+  },
+  {
+    "purpose": ["weed control", "cleaning"],
+    "recipe_name": "Vinegar and Baking Soda Solution",
+    "ingredients": ["Vinegar", "baking soda", "water"],
+    "instructions": [
+      "Mix equal parts vinegar and water in a spray bottle.",
+      "Add a teaspoon of baking soda.",
+      "Shake well before use.",
+      "Spray on affected areas."
+    ],
+    "Apply": [
+      "Spray directly onto the affected plants, focusing on the leaves, stems, and any areas with pest infestations.",
+      "Ensure thorough coverage, including the undersides of leaves where many pests hide.",
+      "Apply the spray in the early morning or late afternoon when it's cooler to avoid harming beneficial insects."
+    ]
+  },
+  {
+    "purpose": ["plants", "garden", "spider mites", "aphids"],
+    "recipe_name": "Tomato Leaf Spray",
+    "ingredients": ["Tomato leaves", "liquid soap", "water"],
+    "instructions": [
+      "Soak 2 cups of chopped tomato leaves in 4 cups of water",
+      "Leave it to rest overnight.",
+      "Strain and use it."
+    ],
+    "Apply": [
+      "Spray onto the leaves and stems of the affected plants.",
+      "Ensure thorough coverage, including the undersides of leaves where many pests hide.",
+      "Reapply it every few days or after rain to maintain its effectiveness."
+    ]
+  },
+  {
+    "purpose": ["aphids", "spider mites"],
+    "recipe_name": "Milk Spray",
+    "ingredients": ["milk", "water"],
+    "instructions": [
+      "Mix 1 cup of milk with 9 cups of water",
+      "Stir the mixture well.",
+      "Strain and use it."
+    ],
+    "Apply": [
+      "Spray the milk solution on the leaves and stems of your plants, focusing on the areas where you've noticed pests.",
+      "Ensure complete coverage, including the undersides of leaves where pests often hide.",
+      "Be cautious not to over-saturate the plants, as excessive moisture can promote fungal growth."
+    ]
+  },
+  {
+    "purpose": ["grasshoppers", "beetle", "boll worm"],
+    "recipe_name": "Garlic and Chilli Pepper Spray",
+    "ingredients": ["Garlic", "chilli pepper", "water", "dish soap"],
+    "instructions": [
+      "Crush 4-5 garlic cloves and 2-3 chilli peppers.",
+      "Add this mixture to 4 cups of water and soak it for 24hrs.",
+      "Strain the liquid and add a few drops of mild liquid dish soap."
+    ],
+    "Apply": [
+      "Spray the milk solution on the leaves and stems of your plants, focusing on the areas where you've noticed pests.",
+      "Ensure complete coverage, including the undersides of leaves where pests often hide.",
+      "Be cautious not to over-saturate the plants, as excessive moisture can promote fungal growth."
+    ]
+  },
+  {
+    "purpose": ["mosquito"],
+    "recipe_name": "Garlic Mosquito Spray ",
+    "ingredients": ["Garlic", "light olive oil", "lemon juice", "water"],
+    "instructions": [
+      "Add 2 tsp of light olive oil and 2 minced garlic cloves to a bowl.",
+      "Allow to rest for 24hrs and strain the oil through cheesecloth.",
+      "Add 2 cups of water, 1 tsp lemon juice and the above oil to a bowl.",
+      " Mix to combine, add to the bottle and shake before use."
+    ],
+    "Apply": [
+      "Spray on plants, outdoor surfaces, and around the areas where mosquitoes are a problem.",
+      "Reapply it every few days or after rain to maintain its effectiveness."
+     ]
+},
+]

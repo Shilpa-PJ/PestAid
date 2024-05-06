@@ -1,0 +1,82 @@
+[ 
+  {
+    "purpose": ["rose","azaleas","vegetables","armyworm"],
+    "recipe_name": "Garlic,Pepper and Onion Pesticide",
+    "ingredients": ["hot pepper", "onion", "garlic bulb","water"],
+    "instructions": [
+      "Take 2 hot peppers, 1 onion, 1 garlic bulb,1/4 cup water.",
+      "Add to a blender and blend it.",
+      "Add a gallon of hot water and mix well.",
+      "Spray on affected areas."
+    ]
+     "Apply":[
+      "Spray it evenly on both sides of the leaves, stems, and the soil around the plant.",
+      "Apply the pesticide in the early morning or late afternoon when it's cooler to avoid harming beneficial insects.",
+      "Apply the pesticide every 1-2 weeks or as needed, especially after heavy rain or irrigation."
+    ]
+  },
+  {
+    "purpose": ["aphides"],
+    "recipe_name": "Basil Tea",
+    "ingredients": ["dry basil", "liquid dish detergent","water"],
+    "instructions": [
+      "Take 4 cups of water to a boil and add 2 tbs dried basil.",
+      "Remove from heat, cover and steep until cool.",
+      "Strain and mix in 1tsp liquid dish detergent."
+    ]
+    "Apply":[
+      "Spray the basil tea pesticide on the affected plants, including the leaves, stems, and the soil around the plants.",
+      "Ensure that you cover both the upper and lower surfaces of the leaves.",
+      "Apply the basil tea pesticide in the early morning or late afternoon when it's cooler to avoid harming beneficial insects."
+    ]
+    
+  },
+  {
+    "purpose": ["fruit fly"],
+    "recipe_name": "Fruit Fly Trap",
+    "ingredients": ["Apple cider vinegar", "Dish soap (liquid)","water"],
+    "instructions": [
+     "Take a small bowl, add 1/4 inch deep apple cider vinegar.",
+      "Add few drops of dish soap to it.",
+      "Cover the container with plastic wrap.",
+      "Use a rubber band to secure the plastic wrap in place.",
+      "poke several holes in it using toothpick."
+    ]
+    "Apply":[
+      "Put the trap near the area where you've observed fruit fly activity.",
+      "Check the trap regularly, at least once a day."
+     ]
+  },
+  {
+   "purpose": ["aphides"],
+   "recipe_name": "Ant Deterrent",
+   "ingredients": ["white vinegar", "essential oil(peppermint)","water"],
+   "instructions": [
+      "Fill a spray bottle with equal parts white vinegar and water.",
+      "Add 10-15 drops of your choosen essential oil.",
+      "Shake well."
+    ]
+    "Apply":[
+      "Spray the deterrent along ant trails, entry points, and areas where you've seen ant activity.",
+      "Spray a barrier around the perimeter of your home or the specific area you want to protect.",
+      "Reapply the spray as needed, especially after rain or if the scent of the deterrent diminishes."
+     ]
+  },
+  {
+    "purpose": ["boll worm"],
+    "recipe_name": "Garlic and Soap Spray",
+    "ingredients": ["garlic", "liquid dish soap","water"],
+    "instructions": [
+      "crush 10-12 garlic cloves.",
+      "Place the crushed garlic in 2 cups of water,steep for at least 24 hours.",
+      "strain the garlic-infused water.",
+      "Add 1 teaspoon of liquid dish soap.",
+      "Shake the mixture."
+    ]
+   "Apply":[
+      "Spray directly onto the affected plants, focusing on the undersides of leaves and areas with pest infestations.",
+      "Ensure you cover the pests with the spray. The soap helps the mixture adhere to the insects.",
+      "Apply the spray in the early morning or late afternoon when it's cooler to avoid harming beneficial insects."
+     ]
+  },
+  ]
